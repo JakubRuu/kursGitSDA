@@ -1,1 +1,1 @@
-zawartość pliku C.
+to jest zawartosc pliku C zmieniona na branchu test.
